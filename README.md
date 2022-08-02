@@ -11,10 +11,9 @@ which increase the reusebility and reduce the line of code as well.
 example: 
 
 void getImage({required ImageSource source}) async {
+    
     final file = await ImagePicker().pickImage(
-      source: source,
-    );
-
+      source: source,);
     if(file?.path != null){
       setState(() {
         imageFile = File(file!.path);
