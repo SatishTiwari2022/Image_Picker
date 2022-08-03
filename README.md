@@ -22,7 +22,7 @@ void getImage({required ImageSource source}) async {
   }
 
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:202.22%;position:relative;"></div><p><a href="https://imgflip.com/gif/6orit1">via Imgflip</a></p></div>
+
 
 
 # Image_Picker
