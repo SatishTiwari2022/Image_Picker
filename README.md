@@ -28,3 +28,9 @@ void getImage({required ImageSource source}) async {
 # Image_Picker
 
 ![6orit1](https://user-images.githubusercontent.com/107614710/182571069-3eedd627-68b7-4b6c-9236-3c113490db31.gif)
+
+
+
+
+https://user-images.githubusercontent.com/107614710/182572437-726fc89a-5561-4a19-8514-114dc50c9d43.mov
+
