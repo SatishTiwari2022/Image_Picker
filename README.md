@@ -31,6 +31,3 @@ void getImage({required ImageSource source}) async {
 
 
 
-
-https://user-images.githubusercontent.com/107614710/182572437-726fc89a-5561-4a19-8514-114dc50c9d43.mov
-
